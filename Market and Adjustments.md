@@ -2,8 +2,6 @@
 
 ## Section 4.1 – Introduction
 
-Let's begin with Section 4.1: Introduction, from page 284 of your scanned PDF.
-
 This section introduces the concept of a market economy and explains how markets developed as human society progressed.
 
 ### 1. How did the market economy develop?
