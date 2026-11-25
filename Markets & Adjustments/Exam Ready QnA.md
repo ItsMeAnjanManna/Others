@@ -381,6 +381,20 @@ In this system, the government owns and controls the major economic resources. A
 - Economic activities are guided by government planning.
 - Social welfare and economic equality are the main objectives.
 
+**Advantages of Centrally Planned Economy**
+
+- **Reduction in Income Inequality:** The government tries to distribute income and wealth more equally among people. This helps reduce the gap between rich and poor.
+- **Proper Utilisation of Resources:** The government can plan how to use available resources efficiently and avoid unnecessary wastage.
+- **Focus on Social Welfare:** The government gives importance to people's basic needs, such as education, healthcare, housing and food, rather than only earning profits.
+- **Economic Stability:** The government can control production, prices and employment to reduce economic problems like inflation and unemployment.
+
+**Disadvantages of Centrally Planned Economy**
+
+- **Lack of Consumer Choice:** Consumers have limited choices because the government decides what goods and services should be produced.
+- **Lack of Competition:** Since private businesses have little or no freedom, there is less competition. This may reduce product quality and innovation.
+- **Inefficient Decision-Making:** Government officials may not understand people's actual needs. As a result, some goods may be overproduced while others may be in short supply.
+- **Lack of Motivation:** Workers and producers may have less motivation to work harder or improve productivity because rewards are not always linked to individual performance.
+
 ### **3. Differences between Market Economy and Centrally Planned Economy**
 
 | Basis                          | Market Economy                                                      | Centrally Planned Economy                                                      |
