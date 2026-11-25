@@ -616,3 +616,14 @@ Non-merit goods are goods that are not considered merit goods. These goods do no
 Demerit goods are goods whose consumption creates a negative impact on the consumer as well as other members of society. Their consumption produces negative externalities.
 
 **Examples:** Alcohol and cigarettes. Their consumption can cause health problems for consumers and also affect others through passive smoking or drunk driving.
+
+## **19. What is Common Property Resource (CPR)? (2 Marks)**
+
+**Common Property Resources (CPRs)** are resources that are available for use by everyone without any ownership rights or charges. However, when one person uses these resources, it reduces their availability for others. Therefore, they are **non-excludable but rivalrous in consumption**.
+
+**Examples:**
+
+- Common grazing lands.
+- Rivers and lakes.
+- Forest resources.
+- Common fishing grounds.
