@@ -410,7 +410,7 @@ In this system, the government owns and controls the major economic resources. A
 
 The market economy gives greater freedom to producers and consumers and relies on market forces, whereas the centrally planned economy relies on government planning and control. Both systems have different approaches to solving the basic economic problems of production, consumption and distribution.
 
-### **12. What is a Mixed Economy? Give a suitable example. (2 Marks)**
+## **12. What is a Mixed Economy? Give a suitable example. (2 Marks)**
 
 A **Mixed Economy** is an economic system in which both the private sector and the public sector co-exist and work together. It combines the features of a capitalist economy and a socialist economy. In this system, economic activities are carried out through both market mechanisms and government planning.
 
